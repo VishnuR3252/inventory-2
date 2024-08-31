@@ -1,0 +1,15 @@
+D:\VishnuR\inventory-service\src\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.deps.json
+D:\VishnuR\inventory-service\src\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.dll
+D:\VishnuR\inventory-service\src\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.pdb
+D:\VishnuR\inventory-service\src\InventoryService.Domain\bin\Debug\net8.0\CommonService.dll
+D:\VishnuR\inventory-service\src\InventoryService.Domain\bin\Debug\net8.0\CommonService.pdb
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.csproj.AssemblyReference.cache
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.AssemblyInfoInputs.cache
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.AssemblyInfo.cs
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.csproj.CoreCompileInputs.cache
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\Inventor.6FB98E4F.Up2Date
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.dll
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\refint\InventoryService.Domain.dll
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.pdb
+D:\VishnuR\inventory-service\src\InventoryService.Domain\obj\Debug\net8.0\ref\InventoryService.Domain.dll

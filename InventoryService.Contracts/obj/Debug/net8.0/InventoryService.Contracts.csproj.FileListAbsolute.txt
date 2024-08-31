@@ -1,0 +1,11 @@
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\bin\Debug\net8.0\InventoryService.Contracts.deps.json
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\bin\Debug\net8.0\InventoryService.Contracts.dll
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\bin\Debug\net8.0\InventoryService.Contracts.pdb
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.AssemblyInfoInputs.cache
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.AssemblyInfo.cs
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.csproj.CoreCompileInputs.cache
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.dll
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\refint\InventoryService.Contracts.dll
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\InventoryService.Contracts.pdb
+D:\VishnuR\inventory-service\src\InventoryService.Contracts\obj\Debug\net8.0\ref\InventoryService.Contracts.dll
